@@ -1,0 +1,69 @@
+[0.031s] Invoking command in '/home/swarmmaster/thesis_ws/build/linorobot2_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/swarmmaster/thesis_ws/src/linorobot2/linorobot2_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/swarmmaster/thesis_ws/install/linorobot2_gazebo
+[0.220s] -- The C compiler identification is GNU 11.3.0
+[0.334s] -- The CXX compiler identification is GNU 11.3.0
+[0.345s] -- Detecting C compiler ABI info
+[0.465s] -- Detecting C compiler ABI info - done
+[0.476s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.477s] -- Detecting C compile features
+[0.478s] -- Detecting C compile features - done
+[0.482s] -- Detecting CXX compiler ABI info
+[0.635s] -- Detecting CXX compiler ABI info - done
+[0.646s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.647s] -- Detecting CXX compile features
+[0.649s] -- Detecting CXX compile features - done
+[0.657s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.908s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.990s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.100s] -- Found rclpy: 3.3.7 (/opt/ros/humble/share/rclpy/cmake)
+[1.419s] -- Configuring done
+[1.445s] -- Generating done
+[1.452s] -- Build files have been written to: /home/swarmmaster/thesis_ws/build/linorobot2_gazebo
+[1.459s] Invoked command in '/home/swarmmaster/thesis_ws/build/linorobot2_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/swarmmaster/thesis_ws/src/linorobot2/linorobot2_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/swarmmaster/thesis_ws/install/linorobot2_gazebo
+[1.460s] Invoking command in '/home/swarmmaster/thesis_ws/build/linorobot2_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/swarmmaster/thesis_ws/build/linorobot2_gazebo -- -j4 -l4
+[1.597s] Built target ament_cmake_python_symlink_scripts
+[1.969s] running egg_info
+[1.969s] creating scripts.egg-info
+[1.970s] writing scripts.egg-info/PKG-INFO
+[1.970s] writing dependency_links to scripts.egg-info/dependency_links.txt
+[1.970s] writing top-level names to scripts.egg-info/top_level.txt
+[1.970s] writing manifest file 'scripts.egg-info/SOURCES.txt'
+[1.970s] reading manifest file 'scripts.egg-info/SOURCES.txt'
+[1.970s] writing manifest file 'scripts.egg-info/SOURCES.txt'
+[2.012s] Built target ament_cmake_python_build_scripts_egg
+[2.026s] Invoked command in '/home/swarmmaster/thesis_ws/build/linorobot2_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/swarmmaster/thesis_ws/build/linorobot2_gazebo -- -j4 -l4
+[2.064s] Invoking command in '/home/swarmmaster/thesis_ws/build/linorobot2_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/swarmmaster/thesis_ws/build/linorobot2_gazebo
+[2.073s] -- Install configuration: ""
+[2.074s] -- Execute custom install script
+[2.076s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/pythonpath.sh
+[2.094s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/pythonpath.dsv
+[2.105s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/PKG-INFO
+[2.123s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/SOURCES.txt
+[2.141s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/dependency_links.txt
+[2.155s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/top_level.txt
+[2.167s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts/__init__.py
+[2.179s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts/command_timeout.py
+[2.199s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/launch/gazebo.launch.py
+[2.200s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/rviz/view_urdf.rviz
+[2.215s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds/gas_station.world
+[2.226s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds/linorobot2_empty.world
+[2.236s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds/playground.world
+[2.248s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/lib/linorobot2_gazebo/command_timeout.py
+[2.260s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/ament_index/resource_index/package_run_dependencies/linorobot2_gazebo
+[2.271s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/ament_index/resource_index/parent_prefix_path/linorobot2_gazebo
+[2.285s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/ament_prefix_path.sh
+[2.302s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/ament_prefix_path.dsv
+[2.313s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/path.sh
+[2.337s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/path.dsv
+[2.359s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.bash
+[2.375s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.sh
+[2.393s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.zsh
+[2.408s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.dsv
+[2.421s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/package.dsv
+[2.431s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/ament_index/resource_index/packages/linorobot2_gazebo
+[2.443s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/cmake/linorobot2_gazeboConfig.cmake
+[2.455s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/cmake/linorobot2_gazeboConfig-version.cmake
+[2.468s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/package.xml
+[2.523s] Listing '/home/swarmmaster/thesis_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts'...
+[2.523s] Compiling '/home/swarmmaster/thesis_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts/__init__.py'...
+[2.523s] Compiling '/home/swarmmaster/thesis_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts/command_timeout.py'...
+[2.537s] Invoked command in '/home/swarmmaster/thesis_ws/build/linorobot2_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/swarmmaster/thesis_ws/build/linorobot2_gazebo

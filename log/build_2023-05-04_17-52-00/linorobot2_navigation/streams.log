@@ -1,0 +1,30 @@
+[0.044s] Invoking command in '/home/swarmmaster/thesis_ws/build/linorobot2_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/swarmmaster/thesis_ws/build/linorobot2_navigation -- -j4 -l4
+[0.097s] Invoked command in '/home/swarmmaster/thesis_ws/build/linorobot2_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/swarmmaster/thesis_ws/build/linorobot2_navigation -- -j4 -l4
+[0.132s] Invoking command in '/home/swarmmaster/thesis_ws/build/linorobot2_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/swarmmaster/thesis_ws/build/linorobot2_navigation
+[0.145s] -- Install configuration: ""
+[0.145s] -- Execute custom install script
+[0.145s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/launch/navigation.launch.py
+[0.145s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/launch/slam.launch.py
+[0.145s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/rviz/linorobot2_navigation.rviz
+[0.145s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/rviz/linorobot2_navigation_minimal.rviz
+[0.146s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/rviz/linorobot2_slam.rviz
+[0.146s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/config/navigation.yaml
+[0.146s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/config/slam.yaml
+[0.146s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/maps/playground.pgm
+[0.146s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/maps/playground.yaml
+[0.147s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/ament_index/resource_index/package_run_dependencies/linorobot2_navigation
+[0.147s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/ament_index/resource_index/parent_prefix_path/linorobot2_navigation
+[0.147s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/environment/ament_prefix_path.sh
+[0.147s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/environment/ament_prefix_path.dsv
+[0.147s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/environment/path.sh
+[0.148s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/environment/path.dsv
+[0.148s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/local_setup.bash
+[0.148s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/local_setup.sh
+[0.148s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/local_setup.zsh
+[0.148s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/local_setup.dsv
+[0.149s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/package.dsv
+[0.159s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/ament_index/resource_index/packages/linorobot2_navigation
+[0.160s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/cmake/linorobot2_navigationConfig.cmake
+[0.160s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/cmake/linorobot2_navigationConfig-version.cmake
+[0.160s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/linorobot2_navigation/share/linorobot2_navigation/package.xml
+[0.167s] Invoked command in '/home/swarmmaster/thesis_ws/build/linorobot2_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/swarmmaster/thesis_ws/build/linorobot2_navigation

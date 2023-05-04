@@ -1,0 +1,4 @@
+source;share/box_bot_description/local_setup.bash
+source;share/box_bot_description/local_setup.dsv
+source;share/box_bot_description/local_setup.sh
+source;share/box_bot_description/local_setup.zsh

@@ -1,0 +1,1 @@
+/home/swarmmaster/thesis_ws/build/linorobot2_base/ament_cmake_core/linorobot2_baseConfig-version.cmake

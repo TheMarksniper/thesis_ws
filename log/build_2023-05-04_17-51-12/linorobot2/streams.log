@@ -1,0 +1,41 @@
+[0.052s] Invoking command in '/home/swarmmaster/thesis_ws/build/linorobot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/swarmmaster/thesis_ws/src/linorobot2/linorobot2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/swarmmaster/thesis_ws/install/linorobot2
+[0.157s] -- The C compiler identification is GNU 11.3.0
+[0.282s] -- The CXX compiler identification is GNU 11.3.0
+[0.300s] -- Detecting C compiler ABI info
+[0.547s] -- Detecting C compiler ABI info - done
+[0.559s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.559s] -- Detecting C compile features
+[0.559s] -- Detecting C compile features - done
+[0.572s] -- Detecting CXX compiler ABI info
+[0.727s] -- Detecting CXX compiler ABI info - done
+[0.739s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.740s] -- Detecting CXX compile features
+[0.740s] -- Detecting CXX compile features - done
+[0.748s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.064s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.146s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.302s] -- Configuring done
+[1.316s] -- Generating done
+[1.317s] -- Build files have been written to: /home/swarmmaster/thesis_ws/build/linorobot2
+[1.343s] Invoked command in '/home/swarmmaster/thesis_ws/build/linorobot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/swarmmaster/thesis_ws/src/linorobot2/linorobot2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/swarmmaster/thesis_ws/install/linorobot2
+[1.344s] Invoking command in '/home/swarmmaster/thesis_ws/build/linorobot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/swarmmaster/thesis_ws/build/linorobot2 -- -j4 -l4
+[1.419s] Invoked command in '/home/swarmmaster/thesis_ws/build/linorobot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/swarmmaster/thesis_ws/build/linorobot2 -- -j4 -l4
+[1.462s] Invoking command in '/home/swarmmaster/thesis_ws/build/linorobot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/swarmmaster/thesis_ws/build/linorobot2
+[1.494s] -- Install configuration: ""
+[1.495s] -- Execute custom install script
+[1.497s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/ament_index/resource_index/package_run_dependencies/linorobot2
+[1.508s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/ament_index/resource_index/parent_prefix_path/linorobot2
+[1.524s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/linorobot2/environment/ament_prefix_path.sh
+[1.534s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/linorobot2/environment/ament_prefix_path.dsv
+[1.544s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/linorobot2/environment/path.sh
+[1.553s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/linorobot2/environment/path.dsv
+[1.563s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/linorobot2/local_setup.bash
+[1.573s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/linorobot2/local_setup.sh
+[1.584s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/linorobot2/local_setup.zsh
+[1.594s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/linorobot2/local_setup.dsv
+[1.609s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/linorobot2/package.dsv
+[1.620s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/ament_index/resource_index/packages/linorobot2
+[1.630s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/linorobot2/cmake/linorobot2Config.cmake
+[1.640s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/linorobot2/cmake/linorobot2Config-version.cmake
+[1.650s] -- Symlinking: /home/swarmmaster/thesis_ws/install/linorobot2/share/linorobot2/package.xml
+[1.665s] Invoked command in '/home/swarmmaster/thesis_ws/build/linorobot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/linorobot2_description:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/swarmmaster/thesis_ws/build/linorobot2

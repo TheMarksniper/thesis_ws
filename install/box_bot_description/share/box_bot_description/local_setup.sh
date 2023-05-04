@@ -1,0 +1,1 @@
+/home/swarmmaster/thesis_ws/build/box_bot_description/ament_cmake_environment_hooks/local_setup.sh

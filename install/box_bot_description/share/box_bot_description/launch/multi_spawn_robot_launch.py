@@ -1,0 +1,1 @@
+/home/swarmmaster/thesis_ws/src/box_bot/box_bot_description/launch/multi_spawn_robot_launch.py
