@@ -1,0 +1,102 @@
+[0.037s] Invoking command in '/home/swarmmaster/thesis_ws/build/box_bot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/multi_spawner:/home/swarmmaster/thesis_ws/install/multi_launcher:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/swarmmaster/thesis_ws/src/box_bot/box_bot_gazebo -DCMAKE_INSTALL_PREFIX=/home/swarmmaster/thesis_ws/install/box_bot_gazebo
+[0.053s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.242s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.253s] -- Found rclcpp: 16.0.4 (/opt/ros/humble/share/rclcpp/cmake)
+[0.297s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.301s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.309s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.325s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.348s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.445s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.447s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.641s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.870s] -- Found rclpy: 3.3.8 (/opt/ros/humble/share/rclpy/cmake)
+[0.917s] -- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+[0.966s] -- Looking for ignition-math6 -- found version 6.14.0
+[0.971s] -- Searching for dependencies of ignition-math6
+[0.973s] -- Looking for OGRE...
+[0.980s] -- Found Ogre Ghadamon (1.9.0)
+[0.980s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[0.995s] -- Looking for OGRE_Paging...
+[0.995s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[0.995s] -- Looking for OGRE_Terrain...
+[0.995s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[0.995s] -- Looking for OGRE_Property...
+[0.996s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[0.996s] -- Looking for OGRE_RTShaderSystem...
+[0.996s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[0.996s] -- Looking for OGRE_Volume...
+[0.996s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[0.996s] -- Looking for OGRE_Overlay...
+[0.996s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[1.290s] -- Looking for ignition-math6 -- found version 6.14.0
+[1.302s] -- Looking for ignition-transport8 -- found version 8.2.1
+[1.303s] -- Searching for dependencies of ignition-transport8
+[1.339s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[1.345s] -- Checking for module 'libzmq >= 4'
+[1.364s] --   Found libzmq , version 4.3.4
+[1.453s] -- Checking for module 'uuid'
+[1.481s] --   Found uuid, version 2.37.2
+[1.537s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[1.538s] -- Searching for dependencies of ignition-msgs5
+[1.541s] -- Looking for ignition-math6 -- found version 6.14.0
+[1.548s] -- Checking for module 'tinyxml2'
+[1.570s] --   Found tinyxml2, version 9.0.0
+[1.612s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[1.612s] -- Looking for ignition-common3 -- found version 3.14.0
+[1.613s] -- Searching for dependencies of ignition-common3
+[1.613s] -- Looking for dlfcn.h - found
+[1.613s] -- Looking for libdl - found
+[1.639s] -- Searching for <ignition-common3> component [graphics]
+[1.639s] -- Looking for ignition-common3-graphics -- found version 3.14.0
+[1.640s] -- Searching for dependencies of ignition-common3-graphics
+[1.641s] -- Looking for ignition-math6 -- found version 6.14.0
+[1.642s] -- Looking for ignition-fuel_tools4 -- found version 4.4.0
+[1.643s] -- Searching for dependencies of ignition-fuel_tools4
+[1.699s] -- Checking for module 'jsoncpp'
+[1.729s] --   Found jsoncpp, version 1.9.5
+[1.798s] -- Checking for module 'libzip'
+[1.831s] --   Found libzip, version 1.7.3
+[1.871s] -- Looking for ignition-common3 -- found version 3.14.0
+[1.871s] -- Looking for ignition-math6 -- found version 6.14.0
+[1.872s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[1.874s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.969s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.972s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.973s] -- Added test 'lint_cmake' to check CMake code style
+[1.974s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.976s] -- Added test 'xmllint' to check XML markup files
+[1.977s] -- Configuring done
+[1.985s] -- Generating done
+[1.988s] -- Build files have been written to: /home/swarmmaster/thesis_ws/build/box_bot_gazebo
+[2.006s] Invoked command in '/home/swarmmaster/thesis_ws/build/box_bot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/multi_spawner:/home/swarmmaster/thesis_ws/install/multi_launcher:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/swarmmaster/thesis_ws/src/box_bot/box_bot_gazebo -DCMAKE_INSTALL_PREFIX=/home/swarmmaster/thesis_ws/install/box_bot_gazebo
+[2.008s] Invoking command in '/home/swarmmaster/thesis_ws/build/box_bot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/multi_spawner:/home/swarmmaster/thesis_ws/install/multi_launcher:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/swarmmaster/thesis_ws/build/box_bot_gazebo -- -j4 -l4
+[2.060s] Invoked command in '/home/swarmmaster/thesis_ws/build/box_bot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/multi_spawner:/home/swarmmaster/thesis_ws/install/multi_launcher:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/swarmmaster/thesis_ws/build/box_bot_gazebo -- -j4 -l4
+[2.090s] Invoking command in '/home/swarmmaster/thesis_ws/build/box_bot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/multi_spawner:/home/swarmmaster/thesis_ws/install/multi_launcher:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/swarmmaster/thesis_ws/build/box_bot_gazebo
+[2.101s] -- Install configuration: ""
+[2.102s] -- Execute custom install script
+[2.103s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//launch/.vscode/c_cpp_properties.json
+[2.103s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//launch/.vscode/settings.json
+[2.103s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//launch/multi_box_bot_launch.py
+[2.104s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//launch/start_world_launch.py
+[2.104s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//worlds/U_shape.model/model.config
+[2.105s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//worlds/U_shape.model/model.sdf
+[2.105s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//worlds/box_bot_empty.world
+[2.105s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//worlds/playground.world
+[2.106s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//worlds/u_shape.world
+[2.106s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/ament_index/resource_index/package_run_dependencies/box_bot_gazebo
+[2.106s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/ament_index/resource_index/parent_prefix_path/box_bot_gazebo
+[2.107s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo/environment/ament_prefix_path.sh
+[2.107s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo/environment/ament_prefix_path.dsv
+[2.108s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo/environment/path.sh
+[2.108s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo/environment/path.dsv
+[2.109s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo/local_setup.bash
+[2.109s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo/local_setup.sh
+[2.109s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo/local_setup.zsh
+[2.109s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo/local_setup.dsv
+[2.110s] -- Symlinking: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo/package.dsv
+[2.127s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/ament_index/resource_index/packages/box_bot_gazebo
+[2.127s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo/cmake/box_bot_gazeboConfig.cmake
+[2.127s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo/cmake/box_bot_gazeboConfig-version.cmake
+[2.128s] -- Up-to-date symlink: /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo/package.xml
+[2.140s] Invoked command in '/home/swarmmaster/thesis_ws/build/box_bot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/multi_spawner:/home/swarmmaster/thesis_ws/install/multi_launcher:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/swarmmaster/thesis_ws/build/box_bot_gazebo

@@ -2,7 +2,11 @@
 /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//launch/.vscode/settings.json
 /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//launch/multi_box_bot_launch.py
 /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//launch/start_world_launch.py
+/home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//worlds/U_shape.model/model.config
+/home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//worlds/U_shape.model/model.sdf
 /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//worlds/box_bot_empty.world
+/home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//worlds/playground.world
+/home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo//worlds/u_shape.world
 /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/ament_index/resource_index/package_run_dependencies/box_bot_gazebo
 /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/ament_index/resource_index/parent_prefix_path/box_bot_gazebo
 /home/swarmmaster/thesis_ws/install/box_bot_gazebo/share/box_bot_gazebo/environment/ament_prefix_path.sh

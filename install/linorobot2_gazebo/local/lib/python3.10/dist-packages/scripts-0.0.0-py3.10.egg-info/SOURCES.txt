@@ -1,1 +1,7 @@
-/home/swarmmaster/thesis_ws/build/linorobot2_gazebo/ament_cmake_python/scripts/scripts.egg-info/SOURCES.txt
+setup.py
+scripts/__init__.py
+scripts/command_timeout.py
+scripts.egg-info/PKG-INFO
+scripts.egg-info/SOURCES.txt
+scripts.egg-info/dependency_links.txt
+scripts.egg-info/top_level.txt

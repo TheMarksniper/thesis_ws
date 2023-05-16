@@ -1,1 +1,2 @@
-/home/swarmmaster/thesis_ws/build/box_bot_description/ament_cmake_environment_hooks/local_setup.dsv
+source;share/box_bot_description/environment/ament_prefix_path.sh
+source;share/box_bot_description/environment/path.sh

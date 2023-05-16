@@ -1,0 +1,48 @@
+[0.020s] Invoking command in '/home/swarmmaster/thesis_ws/build/linorobot2_viz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/multi_spawner:/home/swarmmaster/thesis_ws/install/multi_launcher:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/swarmmaster/thesis_ws/src/linorobot2_viz -DCMAKE_INSTALL_PREFIX=/home/swarmmaster/thesis_ws/install/linorobot2_viz
+[0.106s] -- The C compiler identification is GNU 11.3.0
+[0.200s] -- The CXX compiler identification is GNU 11.3.0
+[0.210s] -- Detecting C compiler ABI info
+[0.301s] -- Detecting C compiler ABI info - done
+[0.310s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.311s] -- Detecting C compile features
+[0.311s] -- Detecting C compile features - done
+[0.315s] -- Detecting CXX compiler ABI info
+[0.436s] -- Detecting CXX compiler ABI info - done
+[0.446s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.447s] -- Detecting CXX compile features
+[0.448s] -- Detecting CXX compile features - done
+[0.454s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.701s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.948s] -- Configuring done
+[0.951s] -- Generating done
+[0.952s] -- Build files have been written to: /home/swarmmaster/thesis_ws/build/linorobot2_viz
+[0.977s] Invoked command in '/home/swarmmaster/thesis_ws/build/linorobot2_viz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/multi_spawner:/home/swarmmaster/thesis_ws/install/multi_launcher:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/swarmmaster/thesis_ws/src/linorobot2_viz -DCMAKE_INSTALL_PREFIX=/home/swarmmaster/thesis_ws/install/linorobot2_viz
+[0.978s] Invoking command in '/home/swarmmaster/thesis_ws/build/linorobot2_viz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/multi_spawner:/home/swarmmaster/thesis_ws/install/multi_launcher:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/swarmmaster/thesis_ws/build/linorobot2_viz -- -j4 -l4
+[1.330s] Invoked command in '/home/swarmmaster/thesis_ws/build/linorobot2_viz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/multi_spawner:/home/swarmmaster/thesis_ws/install/multi_launcher:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/swarmmaster/thesis_ws/build/linorobot2_viz -- -j4 -l4
+[1.359s] Invoking command in '/home/swarmmaster/thesis_ws/build/linorobot2_viz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/multi_spawner:/home/swarmmaster/thesis_ws/install/multi_launcher:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/swarmmaster/thesis_ws/build/linorobot2_viz
+[1.367s] -- Install configuration: ""
+[1.368s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/launch
+[1.368s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/launch/robot_model.launch.py
+[1.368s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/launch/navigation.launch.py
+[1.368s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/launch/slam.launch.py
+[1.368s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/rviz
+[1.369s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/rviz/linorobot2_slam.rviz
+[1.369s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/rviz/linorobot2_navigation_minimal.rviz
+[1.369s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/rviz/linorobot2_navigation.rviz
+[1.369s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/rviz/description.rviz
+[1.369s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/ament_index/resource_index/package_run_dependencies/linorobot2_viz
+[1.369s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/ament_index/resource_index/parent_prefix_path/linorobot2_viz
+[1.369s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/environment/ament_prefix_path.sh
+[1.370s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/environment/ament_prefix_path.dsv
+[1.370s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/environment/path.sh
+[1.370s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/environment/path.dsv
+[1.370s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/local_setup.bash
+[1.370s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/local_setup.sh
+[1.370s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/local_setup.zsh
+[1.370s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/local_setup.dsv
+[1.370s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/package.dsv
+[1.371s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/ament_index/resource_index/packages/linorobot2_viz
+[1.371s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/cmake/linorobot2_vizConfig.cmake
+[1.371s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/cmake/linorobot2_vizConfig-version.cmake
+[1.371s] -- Installing: /home/swarmmaster/thesis_ws/install/linorobot2_viz/share/linorobot2_viz/package.xml
+[1.376s] Invoked command in '/home/swarmmaster/thesis_ws/build/linorobot2_viz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarmmaster/thesis_ws/install/multi_spawner:/home/swarmmaster/thesis_ws/install/multi_launcher:/home/swarmmaster/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/swarmmaster/thesis_ws/build/linorobot2_viz

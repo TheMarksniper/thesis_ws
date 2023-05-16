@@ -1,1 +1,0 @@
-/home/swarmmaster/thesis_ws/src/box_bot/box_bot_description/launch/spawn_robot_launch.py

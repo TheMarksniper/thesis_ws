@@ -1,0 +1,21 @@
+[0.937s] Invoking command in '/home/swarmmaster/thesis_ws/src/multi_spawner': PYTHONPATH=/home/swarmmaster/thesis_ws/build/multi_spawner/prefix_override:/home/swarmmaster/thesis_ws/install/multi_spawner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/multi_spawner build --build-base /home/swarmmaster/thesis_ws/build/multi_spawner/build install --record /home/swarmmaster/thesis_ws/build/multi_spawner/install.log --single-version-externally-managed
+[1.234s] running egg_info
+[1.235s] writing ../../build/multi_spawner/multi_spawner.egg-info/PKG-INFO
+[1.235s] writing dependency_links to ../../build/multi_spawner/multi_spawner.egg-info/dependency_links.txt
+[1.236s] writing entry points to ../../build/multi_spawner/multi_spawner.egg-info/entry_points.txt
+[1.236s] writing requirements to ../../build/multi_spawner/multi_spawner.egg-info/requires.txt
+[1.236s] writing top-level names to ../../build/multi_spawner/multi_spawner.egg-info/top_level.txt
+[1.238s] reading manifest file '../../build/multi_spawner/multi_spawner.egg-info/SOURCES.txt'
+[1.239s] writing manifest file '../../build/multi_spawner/multi_spawner.egg-info/SOURCES.txt'
+[1.239s] running build
+[1.239s] running build_py
+[1.239s] running install
+[1.240s] running install_lib
+[1.241s] running install_data
+[1.241s] copying launch/multi_nav2_spawner.launch.py -> /home/swarmmaster/thesis_ws/install/multi_spawner/share/multi_spawner/launch
+[1.242s] running install_egg_info
+[1.243s] removing '/home/swarmmaster/thesis_ws/install/multi_spawner/lib/python3.10/site-packages/multi_spawner-0.0.0-py3.10.egg-info' (and everything under it)
+[1.244s] Copying ../../build/multi_spawner/multi_spawner.egg-info to /home/swarmmaster/thesis_ws/install/multi_spawner/lib/python3.10/site-packages/multi_spawner-0.0.0-py3.10.egg-info
+[1.245s] running install_scripts
+[1.267s] writing list of installed files to '/home/swarmmaster/thesis_ws/build/multi_spawner/install.log'
+[1.296s] Invoked command in '/home/swarmmaster/thesis_ws/src/multi_spawner' returned '0': PYTHONPATH=/home/swarmmaster/thesis_ws/build/multi_spawner/prefix_override:/home/swarmmaster/thesis_ws/install/multi_spawner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/multi_spawner build --build-base /home/swarmmaster/thesis_ws/build/multi_spawner/build install --record /home/swarmmaster/thesis_ws/build/multi_spawner/install.log --single-version-externally-managed

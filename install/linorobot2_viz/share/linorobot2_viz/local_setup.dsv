@@ -1,1 +1,2 @@
-/home/swarmmaster/thesis_ws/build/linorobot2_viz/ament_cmake_environment_hooks/local_setup.dsv
+source;share/linorobot2_viz/environment/ament_prefix_path.sh
+source;share/linorobot2_viz/environment/path.sh
